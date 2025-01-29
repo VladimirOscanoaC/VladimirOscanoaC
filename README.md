@@ -6,10 +6,14 @@
 
 <!-- **_About me_** -->
 
-🎓 Computer Scientist | Software Developer
-I hold a Bachelor’s degree in Scientific Computing and specialize in Scientific Computing and Front-End Development. Currently, I work as a software developer at a state-owned company, where I apply my expertise to develop innovative and efficient solutions.
+## 👨‍💻 Computer Scientist | Software Developer  
 
-Passionate about problem-solving, algorithm optimization, and user-centered development, I am continuously expanding my knowledge in front-end and back-end technologies. I thrive on building impactful, creative, and high-performance applications, always seeking to deliver value through innovation, fresh ideas, and collaboration.
+I hold a **Bachelor’s degree in Scientific Computing** and specialize in **Scientific Computing and Front-End Development**.  
+Currently, I work as a **software developer at a state-owned company**, where I apply my expertise to develop **innovative and efficient solutions**.  
+
+Passionate about **problem-solving, algorithm optimization, and user-centered development**, I am continuously expanding my knowledge in **front-end and back-end technologies**.  
+I thrive on **building impactful, creative, and high-performance applications**, always seeking to deliver value through **innovation, fresh ideas, and collaboration**.  
+
 
 ## My Skills Include
 
