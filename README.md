@@ -6,12 +6,10 @@
 
 <!-- **_About me_** -->
 
-I hold a Bachelor's degree in Scientific Computing and am currently expanding my knowledge in both front-end and back-end development. I work as a software developer at a state-owned company, where I apply my passion for technology to create innovative and functional solutions. I enjoy continuous learning and building projects that are productive, creative, and impactful, always striving to bring value through fresh ideas and a collaborative approach.
+🎓 Computer Scientist | Software Developer
+I hold a Bachelor’s degree in Scientific Computing and specialize in Scientific Computing and Front-End Development. Currently, I work as a software developer at a state-owned company, where I apply my expertise to develop innovative and efficient solutions.
 
-- 🌱 I’m currently learning ...
-  - JavaScript
-  - Python
-- 📫 Reach out to me at: <a href="vladimir.oscanoa@gmail.com">vladimir.oscanoa@gmail.com</a>
+Passionate about problem-solving, algorithm optimization, and user-centered development, I am continuously expanding my knowledge in front-end and back-end technologies. I thrive on building impactful, creative, and high-performance applications, always seeking to deliver value through innovation, fresh ideas, and collaboration.
 
 ## My Skills Include
 
